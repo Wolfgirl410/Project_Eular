@@ -1,3 +1,3 @@
 # Project_Eular
-# Made by Maria Jacob 
-# Found a mathematics-coding puzzle bazed game and decided I want to code with it.
+Made by yours truly, Maria Jacob
+I was bored and someone showed me the website. Now I am solving simpel matematik problemos
