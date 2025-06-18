@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include <cstdint> 
 int main(){
-    uint64_t x;
+    long long int x;
     x=600851475143;
     int y;
 
