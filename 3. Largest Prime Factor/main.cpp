@@ -1,7 +1,8 @@
 #include<stdio.h>
-
+#include <cstdint> 
 int main(){
-    int x=600851475143;
+    uint64_t x;
+    x=600851475143;
     int y;
 
     for (; x >= 2; x--) {
@@ -10,7 +11,7 @@ int main(){
             break;
 
         if (y == x) {
-            printf("%d\n", x);
+            printf("%llu\n", x);
         }
     }
     return 0;
